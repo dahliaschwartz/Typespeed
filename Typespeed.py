@@ -1,29 +1,5 @@
 # TypeSpeed
 
-# "I hereby certify that this program is solely the result of my own work and 
-# is in compliance with the Academic Integrity policy of the course syllabus 
-# and the academic integrity policy of the CS department.”
-
-# Before running the code:
-# Make sure to download the word file labeled 1000words.py
-# THIS CODE WAS WRITTEN ON A MAC.
-
-# TypeSpeed is a typing competition against yourself to see how many words 
-# you can type before running out of your three lives. Simply type the words
-# as they appear on the screen. When you type a word that appears on the
-# screen, the word will disappear from the screen. When a word completely 
-# disappears from the right side of the screen, you will lose one life. 
-# After three lives are lost, the game will display the "Game Over" screen.
-
-# Reminder - (also listed in instructions page of game):
-# If you want to erase the last letter typed, press the "delete" key.
-# If you want to clear the whole word being typed, press the "return" key.
-
-# Disclaimer:
-# My project proposal implied that there will only be one life in this game. 
-# However, with permission, I changed it to be that the player has three lives
-# before the game ends.
-
 import Draw
 import time
 import random
